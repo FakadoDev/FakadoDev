@@ -1,16 +1,51 @@
-### Hi there 👋
+**Hey 🙃 Welcome to my page! In this README, you can learn a bit about me and other stuff!**
+# Who am I? **_<NOT DONE>_**
 
-<!--
-**FakadoDev/FakadoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What's your name?
 
-Here are some ideas to get you started:
+> My name is **__[REDACTED]__** You can call me Fakado!.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### When did you start programming?
+
+> I started getting into programming at the age eleven when I got my first Personal Computer. How I miss those days.
+
+> My first ever programming language (if you don't count in HTML) is JavaScript. JavaScript is the language who properly introduced me to the developer world. I made different programs and simple AI's with **NodeJS**. Today, **NodeJS** is my main **__"language"__**
+
+### What is your ethnicity?
+> Oh, you wonder about those kinds of things? Yes, I am **black**. Yes, I am **Muslim** and yes, **I can take jokes to a certain extent**
+
+### Wait... You said something about FateAmplex?? Is that your old account?
+> Yeah, **it is**. That was my main github account before I lost access to multiple accounts. The reason is because I did not backup my stuff before wiping. Dumb of me.
+
+# Different projects I've done!
+
+### DiscordJS bot 🤖
+> I made a discord bot called StupidBot who kinda became successful. It was not meant for public use but a way for me to understand discords API. Though I'm happy we had our lovely time together before I lost my account.
+
+### DiscordNET bot 🤖
+> Another discord bot written in C# (dotnet). Not so successful. It main focus was professionalism.
+
+### A voice assistant 🎶
+> Yup. I could do things with a single command in my PC. It was very useful until it bugged out. Rest in peace Chii 🙏🕊
+> Not released for public.
+
+### Fakado's Basement 🎮
+> A simple unity game with different levels where you try to escape from a basement. Completely written in C#! Not released for public.
+
+### And many more!!!
+
+# Contact!
+
+### Discord!
+Fakado#8525
+
+### Twitter!
+[ERROR FILE NOT FOUND]
+
+
+# Misc
+
+### To Ulferno!
+Hey! I hope we can work together! You totally seem to have talent which potentially could win over mine! The fact that you also main JavaScript made me happy. Contact me on discord if you wanna team up and make something!
+
+# Thanks for reading and gbye!!!
