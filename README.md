@@ -14,9 +14,6 @@
 ### What is your ethnicity?
 > Oh, you wonder about those kinds of things? Yes, I am **black**. Yes, I am **Muslim** and yes, **I can take jokes to a certain extent**
 
-### Wait... You said something about FateAmplex?? Is that your old account?
-> Yeah, **it is**. That was my main github account before I lost access to multiple accounts. The reason is because I did not backup my stuff before wiping. Dumb of me.
-
 # Different projects I've done!
 
 ### DiscordJS bot 🤖
@@ -45,7 +42,6 @@ Fakado#8525
 
 # Misc
 
-### To Ulferno!
-Hey! I hope we can work together! You totally seem to have talent which potentially could win over mine! The fact that you also main JavaScript made me happy. Contact me on discord if you wanna team up and make something!
+> [FILE CANNOT BE EMPTY]
 
 # Thanks for reading and gbye!!!
