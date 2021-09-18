@@ -29,6 +29,8 @@
 ### Fakado's Basement 🎮
 > A simple unity game with different levels where you try to escape from a basement. Completely written in C#! Not released for public.
 
+# To note
+I am currently very unmotivated when it comes to developing things. Once I start on a project, I immediately drop it. But I'm still trying because being a professional developer is my job. And not a roblox developer, no - that shit is hard. But a real one!
 ### And many more!!!
 
 # Contact!
